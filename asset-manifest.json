@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vouche/static/css/main.abe8956c.chunk.css",
+    "main.css": "/Vouche/static/css/main.18fb8c80.chunk.css",
     "main.js": "/Vouche/static/js/main.ca4cce4c.chunk.js",
     "main.js.map": "/Vouche/static/js/main.ca4cce4c.chunk.js.map",
     "runtime-main.js": "/Vouche/static/js/runtime-main.afab8e1e.js",
@@ -12,7 +12,7 @@
     "static/js/3.78c7e158.chunk.js.map": "/Vouche/static/js/3.78c7e158.chunk.js.map",
     "index.html": "/Vouche/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/Vouche/static/css/2.a95be28f.chunk.css.map",
-    "static/css/main.abe8956c.chunk.css.map": "/Vouche/static/css/main.abe8956c.chunk.css.map",
+    "static/css/main.18fb8c80.chunk.css.map": "/Vouche/static/css/main.18fb8c80.chunk.css.map",
     "static/js/2.c1998210.chunk.js.LICENSE.txt": "/Vouche/static/js/2.c1998210.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/Vouche/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.afab8e1e.js",
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.c1998210.chunk.js",
-    "static/css/main.abe8956c.chunk.css",
+    "static/css/main.18fb8c80.chunk.css",
     "static/js/main.ca4cce4c.chunk.js"
   ]
 }
