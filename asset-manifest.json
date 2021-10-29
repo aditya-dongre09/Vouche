@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Vouche/static/css/main.abe8956c.chunk.css",
+    "main.js": "/Vouche/static/js/main.8446ed20.chunk.js",
+    "main.js.map": "/Vouche/static/js/main.8446ed20.chunk.js.map",
+    "runtime-main.js": "/Vouche/static/js/runtime-main.afab8e1e.js",
+    "runtime-main.js.map": "/Vouche/static/js/runtime-main.afab8e1e.js.map",
+    "static/css/2.a95be28f.chunk.css": "/Vouche/static/css/2.a95be28f.chunk.css",
+    "static/js/2.c1998210.chunk.js": "/Vouche/static/js/2.c1998210.chunk.js",
+    "static/js/2.c1998210.chunk.js.map": "/Vouche/static/js/2.c1998210.chunk.js.map",
+    "static/js/3.78c7e158.chunk.js": "/Vouche/static/js/3.78c7e158.chunk.js",
+    "static/js/3.78c7e158.chunk.js.map": "/Vouche/static/js/3.78c7e158.chunk.js.map",
+    "index.html": "/Vouche/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/Vouche/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.abe8956c.chunk.css.map": "/Vouche/static/css/main.abe8956c.chunk.css.map",
+    "static/js/2.c1998210.chunk.js.LICENSE.txt": "/Vouche/static/js/2.c1998210.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Vouche/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afab8e1e.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.c1998210.chunk.js",
+    "static/css/main.abe8956c.chunk.css",
+    "static/js/main.8446ed20.chunk.js"
+  ]
+}
