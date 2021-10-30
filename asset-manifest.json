@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Vouche/static/css/main.18fb8c80.chunk.css",
-    "main.js": "/Vouche/static/js/main.ca4cce4c.chunk.js",
-    "main.js.map": "/Vouche/static/js/main.ca4cce4c.chunk.js.map",
+    "main.js": "/Vouche/static/js/main.d9fea005.chunk.js",
+    "main.js.map": "/Vouche/static/js/main.d9fea005.chunk.js.map",
     "runtime-main.js": "/Vouche/static/js/runtime-main.afab8e1e.js",
     "runtime-main.js.map": "/Vouche/static/js/runtime-main.afab8e1e.js.map",
     "static/css/2.a95be28f.chunk.css": "/Vouche/static/css/2.a95be28f.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.a95be28f.chunk.css",
     "static/js/2.c1998210.chunk.js",
     "static/css/main.18fb8c80.chunk.css",
-    "static/js/main.ca4cce4c.chunk.js"
+    "static/js/main.d9fea005.chunk.js"
   ]
 }
